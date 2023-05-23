@@ -1,1 +1,1 @@
-# Apple-Website-Replica-Using-Bootstrap
+# Apple-Website-Replica-Using-jQuery
